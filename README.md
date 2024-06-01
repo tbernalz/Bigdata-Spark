@@ -91,3 +91,10 @@ El archivo Jupyter Notebook con el desarrollo completo de estos pasos está disp
 ## Conclusión
 
 En este proyecto se realizó un análisis detallado de los datos de COVID-19 en Colombia utilizando PySpark. Se almacenaron los datos en AWS S3 y Google Drive, se llevó a cabo un análisis exploratorio de datos y se respondieron preguntas de negocio utilizando tanto la API de DataFrame de Spark como SparkSQL. Finalmente, los resultados se almacenaron en AWS S3 para su posterior análisis y consulta.
+
+
+## Referencias
+
+https://www.oreilly.com/library/view/learning-spark-2nd/9781492050032/ch04.html
+
+https://www.datos.gov.co/api/views/gt2j-8ykr/rows.csv?accessType=DOWNLOAD
