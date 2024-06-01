@@ -56,3 +56,29 @@ En este proyecto se explorarán y analizarán los datos de casos positivos de CO
 * 2.7 Filtrar datos
 
 * 2.8 Ejecutar una función UDF sobre alguna columna (Edad) creando una nueva (Edad_grupo)
+
+
+## 3. Preguntas de Negocio
+
+* 3.1 Departamentos con Más Casos de Covid en Colombia ordenados de mayor a menor
+
+* 3.2 Las 10 ciudades con más casos de covid en Colombia ordenados de mayor a menor
+
+* 3.3 Los 10 días con más casos de covid en Colombia ordenados de mayor a menor
+
+* 3.4 Distribución de casos por edades de covid en Colombia
+
+* 3.5 Pregunda de negocio: ¿Cuál es el promedio de edad de los casos recuperados?
+
+
+## 4. Almacenamiento de Resultados en un Bucke público de AWS S3
+
+* departamentos_mas_casos: 
+
+* ciudades_mas_casos: 
+
+* dias_mas_casos: 
+
+* distribucion_edad: 
+
+* promedio_edad_activos: 
