@@ -8,6 +8,10 @@
 En este proyecto se explorarán y analizarán los datos de casos positivos de COVID-19 en Colombia utilizando PySpark y Jupyter Notebooks. El objetivo es realizar un análisis exploratorio de los datos, responder preguntas de negocio específicas y almacenar los datos procesados tanto en AWS S3 como en Google Drive. El proyecto se desarrollará en dos plataformas: AWS-EMR-JupyterHub y Google Colab.
 
 
+### Archivo .ipynb
+El archivo Jupyter Notebook con el desarrollo completo de estos pasos está disponible en este repositorio.
+
+
 ## 1. Almacenar datos en AWS S3 y en google drive
 
 ### Configurar Credenciales de AWS
@@ -82,3 +86,8 @@ En este proyecto se explorarán y analizarán los datos de casos positivos de CO
 * distribucion_edad: 
 
 * promedio_edad_activos: 
+
+
+## Conclusión
+
+En este proyecto se realizó un análisis detallado de los datos de COVID-19 en Colombia utilizando PySpark. Se almacenaron los datos en AWS S3 y Google Drive, se llevó a cabo un análisis exploratorio de datos y se respondieron preguntas de negocio utilizando tanto la API de DataFrame de Spark como SparkSQL. Finalmente, los resultados se almacenaron en AWS S3 para su posterior análisis y consulta.
