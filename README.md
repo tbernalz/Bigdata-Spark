@@ -1,7 +1,7 @@
 # ST0263 - Tópicos Especiales en Telemática, 2024-1
 
-* Estudiante: Tomás Bernal Zuluaga - tbernalz@eafit.edu.co
-* Profesor: Edwin Montoya - emontoya@eafit.edu.co
+* **Estudiante:** Tomás Bernal Zuluaga - tbernalz@eafit.edu.co
+* **Profesor:** Edwin Montoya - emontoya@eafit.edu.co
 
 # Proyecto 3 - Spark con Notebooks y PySpark
 
@@ -77,15 +77,15 @@ El archivo Jupyter Notebook con el desarrollo completo de estos pasos está disp
 
 ## 4. Almacenamiento de Resultados en un Bucke público de AWS S3
 
-* departamentos_mas_casos: 
+* departamentos_mas_casos: s3a://tbernalz-p3/dataset_covid_colombia/departamentos_mas_casos.csv
 
-* ciudades_mas_casos: 
+* ciudades_mas_casos: s3a://tbernalz-p3/dataset_covid_colombia/ciudades_mas_casos.csv
 
-* dias_mas_casos: 
+* dias_mas_casos: s3a://tbernalz-p3/dataset_covid_colombia/dias_mas_casos.csv
 
-* distribucion_edad: 
+* casos_por_edad: s3a://tbernalz-p3/dataset_covid_colombia/casos_por_edad.csv
 
-* promedio_edad_activos: 
+* promedio_edad_recuperados: s3a://tbernalz-p3/dataset_covid_colombia/promedio_edad_recuperados.csv
 
 
 ## Conclusión
