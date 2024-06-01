@@ -77,15 +77,15 @@ El archivo Jupyter Notebook con el desarrollo completo de estos pasos está disp
 
 ## 4. Almacenamiento de Resultados en un Bucke público de AWS S3
 
-* departamentos_mas_casos: s3a://tbernalz-p3/dataset_covid_colombia/departamentos_mas_casos.csv
+* **departamentos_mas_casos:** s3a://tbernalz-p3/dataset_covid_colombia/departamentos_mas_casos.csv
 
-* ciudades_mas_casos: s3a://tbernalz-p3/dataset_covid_colombia/ciudades_mas_casos.csv
+* **ciudades_mas_casos:** s3a://tbernalz-p3/dataset_covid_colombia/ciudades_mas_casos.csv
 
-* dias_mas_casos: s3a://tbernalz-p3/dataset_covid_colombia/dias_mas_casos.csv
+* **dias_mas_casos:** s3a://tbernalz-p3/dataset_covid_colombia/dias_mas_casos.csv
 
-* casos_por_edad: s3a://tbernalz-p3/dataset_covid_colombia/casos_por_edad.csv
+* **casos_por_edad:** s3a://tbernalz-p3/dataset_covid_colombia/casos_por_edad.csv
 
-* promedio_edad_recuperados: s3a://tbernalz-p3/dataset_covid_colombia/promedio_edad_recuperados.csv
+* **promedio_edad_recuperados:** s3a://tbernalz-p3/dataset_covid_colombia/promedio_edad_recuperados.csv
 
 
 ## Conclusión
